@@ -1,4 +1,4 @@
-# LogIn and SignUp 
+# Ecommerce Flutter App Frondend
 
 A new Flutter project.
 
